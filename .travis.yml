@@ -17,4 +17,4 @@ cache:
 
 # Command to run tests, e.g. python setup.py test
 script:
-  - python -m unittest test.test_add_data_obj
+  - python -m unittest objectOriented.test.test_add_data_obj
